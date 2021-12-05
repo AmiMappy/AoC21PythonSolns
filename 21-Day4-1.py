@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 inp_file = open("./21-Day4-input.txt", "r")
 numbers = []
 grids = [] # A 3D list
@@ -150,4 +149,3 @@ for row in bingo_grid:
         if elem != -1:
             s += elem
 print(s * bingo_num)
->>>>>>> 9cbbc6d0ac8269bb93f937605db1d6000d24985a
