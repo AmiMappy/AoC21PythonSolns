@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 inp_file = open("./21-Day4-input.txt", "r")
 numbers = []
 grids = [] # A 3D list
@@ -148,4 +147,3 @@ while len(grids) > 1:
     grids.remove(bingo_find(grids)[0])
 print(bingo_find(grids))
 # look at output and calculate answer yourself
->>>>>>> 9cbbc6d0ac8269bb93f937605db1d6000d24985a
